@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# dev.sh & test.sh
+dev.sh
+test.sh
